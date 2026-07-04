@@ -1,0 +1,40 @@
+# Compiled binaries / objects
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.exp
+
+# Build directories
+build/
+out/
+bin/
+cmake-build-*/
+
+# Generated analysis outputs (reproducible from the C++/scripts)
+weighting_curve.csv
+weighting_plot.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
